@@ -1,6 +1,6 @@
 CODSOFT TASK 2
 "WORD COUNTER"
-Files are: WordCounter.java
+Files: WordCounter.java,README2.md
 
 PROCEDURE:
 1. Prompt the user to enter a text or provide a file to count the words.
@@ -16,3 +16,6 @@ You can further enhance the project by adding features such as:
 8. Providing statistics like the number of unique words or the frequency of each word.
 9. Implementing input validation to handle empty inputs or file errors.
 10. Adding a graphical user interface (GUI) for a more user-friendly experience.
+DONE BY,
+YEHAASARY KM
+JANSONS INSTITUTE OF TECHNOLOGY,COIMBATORE.
