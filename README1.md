@@ -1,6 +1,6 @@
  CODSOFT TASK 1
  "NUMBER GAME"
- Files: Number_GameJava.java
+ Files: Number_GameJava.java,README1.md.
 
  PROCEDURES:
  1. Generate a random number within a specified range, such as 1 to 100.
@@ -17,3 +17,6 @@ You can incorporate additional details as follows:
 5. Limit the number of attempts the user has to guess the number.
 6. Add the option for multiple rounds, allowing the user to play again.
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
+DONE BY,
+   YEHAASARY KM
+   JANSONS INSTITUTE OF TECHNOLOGY,COIMBATORE.
