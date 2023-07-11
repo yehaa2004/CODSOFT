@@ -1,9 +1,9 @@
 CODSOFT TASK 4 "ATM INTERFACE"
 
 The files are:
-ATM_Interface.java
-ATM_Interface.class
-BankAccount.class
+ATM_Interface.java,
+ATM_Interface.class,
+BankAccount.class.
 
 PROCEDURES:
 1.Create a class to represent the ATM machine.
